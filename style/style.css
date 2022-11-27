@@ -1,0 +1,17 @@
+#divProductos {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.card-cardProd {
+  width: 200px !important;
+  margin: 5px;
+  text-align: center;
+  padding: 2em;
+  border: 1px solid;
+  border-radius: 0.5em;
+}
+
+.card-cardProd img {
+  width: 100%;
+}
